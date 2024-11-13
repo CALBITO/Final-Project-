@@ -1,0 +1,69 @@
+1. The Big Idea:
+The goal of this project is to develop a web application that functions as a "barbershop locator and booking system," which enables users to locate nearby barbershops on an interactive map and book services directly. Leveraging both an external barbershop API and manual input, the app allows users to browse a comprehensive network of barbershops with detailed service information. Local barbershops not listed in the API can be added manually, expanding the network for a more inclusive and community-driven experience.
+
+The Minimum Viable Product (MVP) will allow users to:
+
+Search for and view nearby barbershops on a map based on their location.
+Access essential information on each barbershop (name, location, contact info).
+Book services directly through the application, with options for in-app messaging or scheduling.
+Barbershops can be added manually to allow for small, locally owned barbershops without API representation to join.
+The Stretch Goals include:
+
+User authentication for saving favorites and viewing booking history.
+Advanced filtering options by services offered or ratings.
+Review/rating functionality for user feedback.
+Notifications and confirmations for booked appointments.
+
+2. Learning Objectives:
+Shared Learning Objectives:
+
+Develop a location-based application utilizing mapping and geolocation libraries.
+Integrate external and local data sources to provide a more inclusive barbershop network.
+Build user authentication and secure booking processes.
+Individual Learning Goals:
+
+Front-End: Master interactive map integration, responsive UI design, and booking forms.
+Back-End: Gain experience in API integration, secure data management, and user authentication.
+
+3. Implementation Plan:
+Our research points to several tools and frameworks that will support our objectives:
+
+Frontend: We’ll use React for dynamic user interfaces and interactive components, along with a mapping library (e.g., Leaflet or Google Maps API).
+Backend: Flask or Django will serve as our backend framework, while PostgreSQL or MongoDB will store user and booking data.
+External APIs: A barbershop API will serve as our primary data source for shop information, with Google Places API for location filtering and MapQuest or Google Maps for navigation.
+Steps for Implementation:
+
+Research and test APIs and libraries, ensuring both automated and manual entry are supported.
+Develop the UI mockup with map integration.
+Integrate the API connection for barbershop data and test manual data entry.
+Build booking functionality with secure validation.
+Implement user authentication, if feasible within the timeline.
+Test for functionality, debug, and deploy.
+
+4. Project Schedule:
+
+Week 1: Research APIs, finalize tech stack, and design wireframes.
+Week 2: Develop the front-end interface, map functionality, and API integration.
+Week 3: Implement back-end logic for managing bookings and build the database.
+Week 4: Add user authentication and expand manual barbershop entry functionality.
+Week 5: Conduct final testing, debugging, polish features, and prepare documentation.
+
+5. Collaboration Plan:
+We will follow an Agile development approach, with twice-weekly check-ins for progress updates, issue discussions, and new goal setting.
+
+Division of Tasks:
+
+Front-end team: Design and implement UI, map integration, and booking forms.
+Back-end team: API integration, database management, user authentication.
+We’ll use GitHub for version control and task tracking, along with Slack for real-time team communication.
+
+6. Risks and Limitations:
+The main risks include:
+
+Data Security: Collecting booking and possibly user information requires secure handling, as any data breach could expose sensitive information.
+Manual Entry Complexity: The addition of a manual entry feature could introduce data inconsistencies and potential data validation challenges.
+Limited API Data: If the API has data gaps, it may limit the availability of barbershop information, potentially reducing the network’s comprehensiveness.
+To mitigate these, we’ll enforce data security protocols and validation checks and focus on securing sensitive user information. We’ll also ensure API integration and manual data entry functions are thoroughly tested.
+
+7. Additional Course Content:
+Learning more about securing user data and implementing secure data transfer protocols would be beneficial for this project. Additionally, resources on handling manual data input, user reviews, and the intricacies of debugging for geolocation or mapping errors would enhance our project’s functionality and usability.
