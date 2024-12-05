@@ -1,0 +1,782 @@
+[
+    {
+        "attributes": {
+            "BARBERSHOP": "A Sharper Image Barbershop",
+            "ADDRESS": "5115 Georgia Ave NW WDC 20011",
+            "PHONE": "(202) 257-5630",
+            "WARD": 4.0,
+            "LATITUDE": 38.95246796,
+            "LONGITUDE": -77.02727536,
+            "MAR_WARD": "Ward 4",
+            "XCOORD": "397635.77",
+            "YCOORD": "142730.01",
+            "ZIPCODE": "20011",
+            "MAR_ID": "251738",
+            "GIS_ID": "BooksandBarbershopsPt_1",
+            "GLOBALID": "{87EDFCAD-3677-436D-8DA1-35A3EF2B7859}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 1
+        },
+        "geometry": {
+            "x": -77.02727765650513,
+            "y": 38.95247542442591
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Powell's Barbershop",
+            "ADDRESS": "227 Upshur St NW WDC 20011",
+            "PHONE": "(202) 722-9875",
+            "WARD": 4.0,
+            "LATITUDE": 38.94236217,
+            "LONGITUDE": -77.01500836,
+            "MAR_WARD": "Ward 4",
+            "XCOORD": "398698.89",
+            "YCOORD": "141607.93",
+            "ZIPCODE": "20011",
+            "MAR_ID": "244362",
+            "GIS_ID": "BooksandBarbershopsPt_2",
+            "GLOBALID": "{7C7B8937-FAA2-4678-89C9-2869BE90255C}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 2
+        },
+        "geometry": {
+            "x": -77.0150106505496,
+            "y": 38.942369631493875
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Williams' Barbershop",
+            "ADDRESS": "851 Upshur St NW WDC 20011",
+            "PHONE": "(202) 534-8862",
+            "WARD": 4.0,
+            "LATITUDE": 38.9420242,
+            "LONGITUDE": -77.02488466,
+            "MAR_WARD": "Ward 4",
+            "XCOORD": "397842.68",
+            "YCOORD": "141570.6",
+            "ZIPCODE": "20011",
+            "MAR_ID": "285448",
+            "GIS_ID": "BooksandBarbershopsPt_3",
+            "GLOBALID": "{CBE22C38-AB4C-44BF-8B99-9CCFD6BF8D89}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 3
+        },
+        "geometry": {
+            "x": -77.02488695496805,
+            "y": 38.942031666390434
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Eddie's Barbershop",
+            "ADDRESS": "3929 Georgia Ave NW WDC 20011",
+            "PHONE": "(202) 534-7559",
+            "WARD": 4.0,
+            "LATITUDE": 38.93947816,
+            "LONGITUDE": -77.02462286,
+            "MAR_WARD": "Ward 4",
+            "XCOORD": "397865.3",
+            "YCOORD": "141287.96",
+            "ZIPCODE": "20011",
+            "MAR_ID": "252527",
+            "GIS_ID": "BooksandBarbershopsPt_5",
+            "GLOBALID": "{D0311947-ACDA-4F11-9679-4F721DED54A7}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 5
+        },
+        "geometry": {
+            "x": -77.02462515393333,
+            "y": 38.93948561802577
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Bennet Career Institute",
+            "ADDRESS": "700 Monroe St NE WDC 20017",
+            "PHONE": "(202) 526-1400",
+            "WARD": 5.0,
+            "LATITUDE": 38.93264131,
+            "LONGITUDE": -76.99594045,
+            "MAR_WARD": "Ward 5",
+            "XCOORD": "400351.98",
+            "YCOORD": "140528.73",
+            "ZIPCODE": "20017",
+            "MAR_ID": "300",
+            "GIS_ID": "BooksandBarbershopsPt_6",
+            "GLOBALID": "{1CCEDAA1-772E-40DB-A05B-64F0B2C69900}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 6
+        },
+        "geometry": {
+            "x": -76.9959427333946,
+            "y": 38.932648770166914
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Spruill's Bluebird Barbershop",
+            "ADDRESS": "3219 Georgia Ave NW WDC 20010",
+            "PHONE": "(202) 722-9778",
+            "WARD": 1.0,
+            "LATITUDE": 38.93089479,
+            "LONGITUDE": -77.02322969,
+            "MAR_WARD": "Ward 1",
+            "XCOORD": "397985.84",
+            "YCOORD": "140335.1",
+            "ZIPCODE": "20010",
+            "MAR_ID": "228953",
+            "GIS_ID": "BooksandBarbershopsPt_7",
+            "GLOBALID": "{7E7D08C4-729F-4919-9956-85D9C1DAD141}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 7
+        },
+        "geometry": {
+            "x": -77.02323197841449,
+            "y": 38.9309022525171
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Eagle Barbershop",
+            "ADDRESS": "2800 Georgia Ave NW WDC 20001",
+            "PHONE": "(202) 534-7559",
+            "WARD": 1.0,
+            "LATITUDE": 38.92620465,
+            "LONGITUDE": -77.0230554,
+            "MAR_WARD": "Ward 1",
+            "XCOORD": "398000.82",
+            "YCOORD": "139814.45",
+            "ZIPCODE": "20001",
+            "MAR_ID": "284501",
+            "GIS_ID": "BooksandBarbershopsPt_8",
+            "GLOBALID": "{2366CEA1-FD8D-4B54-ABD5-5E9135E4CC4C}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 8
+        },
+        "geometry": {
+            "x": -77.02305769439292,
+            "y": 38.926212108670775
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Joseph's Babershop",
+            "ADDRESS": "2624 Georigia Ave NW WDC 20001",
+            "PHONE": "(202) 597-8458",
+            "WARD": 1.0,
+            "LATITUDE": 38.92490523,
+            "LONGITUDE": -77.02289457,
+            "MAR_WARD": "Ward 1",
+            "XCOORD": "398014.73",
+            "YCOORD": "139670.2",
+            "ZIPCODE": "20001",
+            "MAR_ID": "232389",
+            "GIS_ID": "BooksandBarbershopsPt_9",
+            "GLOBALID": "{7F88E433-C4E3-48C1-B7A9-87C9CDF900E5}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 9
+        },
+        "geometry": {
+            "x": -77.02289686096975,
+            "y": 38.92491269036069
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Showtime Hair Design",
+            "ADDRESS": "923 U St NW WDC 20001",
+            "PHONE": "(202) 332-2526",
+            "WARD": 1.0,
+            "LATITUDE": 38.91718397,
+            "LONGITUDE": -77.02489352,
+            "MAR_WARD": "Ward 1",
+            "XCOORD": "397841.16",
+            "YCOORD": "138813.12",
+            "ZIPCODE": "20001",
+            "MAR_ID": "239465",
+            "GIS_ID": "BooksandBarbershopsPt_10",
+            "GLOBALID": "{E3C86AC4-0C60-4F60-A678-129FD2C0869A}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 10
+        },
+        "geometry": {
+            "x": -77.0248958130251,
+            "y": 38.91719142549585
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Community Barbershop",
+            "ADDRESS": "1931 N. Capitol St NE WDC 20001",
+            "PHONE": "(202) 635-9869",
+            "WARD": 5.0,
+            "LATITUDE": 38.91657075,
+            "LONGITUDE": -77.00875873,
+            "MAR_WARD": "Ward 5",
+            "XCOORD": "399240.41",
+            "YCOORD": "138744.79",
+            "ZIPCODE": "20002",
+            "MAR_ID": "53593",
+            "GIS_ID": "BooksandBarbershopsPt_11",
+            "GLOBALID": "{EBEABC86-80E8-4FCF-A397-67B1E6E47D67}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 11
+        },
+        "geometry": {
+            "x": -77.00876102186952,
+            "y": 38.91657821004872
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Greg's Barbershop",
+            "ADDRESS": "1909 7th St NW WDC 20001",
+            "PHONE": "(202) 745-9183",
+            "WARD": 1.0,
+            "LATITUDE": 38.91591127,
+            "LONGITUDE": -77.02172189,
+            "MAR_WARD": "Ward 1",
+            "XCOORD": "398116.18",
+            "YCOORD": "138671.77",
+            "ZIPCODE": "20001",
+            "MAR_ID": "218561",
+            "GIS_ID": "BooksandBarbershopsPt_13",
+            "GLOBALID": "{A6CEE03C-2ACE-48F0-B869-23165BBB1A77}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 13
+        },
+        "geometry": {
+            "x": -77.02172417670735,
+            "y": 38.915918730302806
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Hollywood Styles & Cuts\n",
+            "ADDRESS": "710 S St NW WDC 20001",
+            "PHONE": "(202) 462-7191",
+            "WARD": 2.0,
+            "LATITUDE": 38.913936,
+            "LONGITUDE": -77.02230242,
+            "MAR_WARD": "Ward 2",
+            "XCOORD": "398065.78",
+            "YCOORD": "138452.51",
+            "ZIPCODE": "20001",
+            "MAR_ID": "300388",
+            "GIS_ID": "BooksandBarbershopsPt_15",
+            "GLOBALID": "{58FCEAF7-31C4-4908-A0BC-B962EA68D0E0}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 15
+        },
+        "geometry": {
+            "x": -77.02230470962728,
+            "y": 38.913943453133385
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Shabazz Barbershop",
+            "ADDRESS": "704 O St NW WDC 20001",
+            "PHONE": "(202) 299-9322",
+            "WARD": 2.0,
+            "LATITUDE": 38.90833566,
+            "LONGITUDE": -77.02247061,
+            "MAR_WARD": "Ward 2",
+            "XCOORD": "398051.04",
+            "YCOORD": "137830.83",
+            "ZIPCODE": "20001",
+            "MAR_ID": "302134",
+            "GIS_ID": "BooksandBarbershopsPt_16",
+            "GLOBALID": "{C969684E-A1B0-4C65-A682-BC47BD94A46B}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 16
+        },
+        "geometry": {
+            "x": -77.02247290363731,
+            "y": 38.90834311459186
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Mason's Hair Gallery",
+            "ADDRESS": "1010 H St NE WDC 20002",
+            "PHONE": "(202) 399-6454",
+            "WARD": 6.0,
+            "LATITUDE": 38.90040769,
+            "LONGITUDE": -76.99222972,
+            "MAR_WARD": "Ward 6",
+            "XCOORD": "400674.02",
+            "YCOORD": "136950.55",
+            "ZIPCODE": "20002",
+            "MAR_ID": "75791",
+            "GIS_ID": "BooksandBarbershopsPt_18",
+            "GLOBALID": "{A2498753-2A39-474D-BE00-00732F221A41}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 18
+        },
+        "geometry": {
+            "x": -76.99223200422455,
+            "y": 38.90041514497291
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Hillman & Son",
+            "ADDRESS": "1106 H St NE WDC 20002",
+            "PHONE": "(202) 396-9640",
+            "WARD": 6.0,
+            "LATITUDE": 38.90039374,
+            "LONGITUDE": -76.99115379,
+            "MAR_WARD": "Ward 6",
+            "XCOORD": "400767.35",
+            "YCOORD": "136949.01",
+            "ZIPCODE": "20002",
+            "MAR_ID": "74323",
+            "GIS_ID": "BooksandBarbershopsPt_19",
+            "GLOBALID": "{1BAE9DAD-EE24-4801-8D23-D6FDDE1B6342}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 19
+        },
+        "geometry": {
+            "x": -76.99115607323237,
+            "y": 38.90040119562184
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Powell's 2 Barbershop",
+            "ADDRESS": "1232 H St NE WDC 20002",
+            "PHONE": "(202) 607-5172",
+            "WARD": 6.0,
+            "LATITUDE": 38.90038555,
+            "LONGITUDE": -76.98908828,
+            "MAR_WARD": "Ward 6",
+            "XCOORD": "400946.52",
+            "YCOORD": "136948.12",
+            "ZIPCODE": "20002",
+            "MAR_ID": "70429",
+            "GIS_ID": "BooksandBarbershopsPt_20",
+            "GLOBALID": "{53431877-CA68-472A-AD4D-FE1AD1D81AA6}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 20
+        },
+        "geometry": {
+            "x": -76.98909055612756,
+            "y": 38.90039300359351
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Fresh Cuts & Styles",
+            "ADDRESS": "4051 Minnesota Ave NE WDC 20019",
+            "PHONE": "(202) 367-2764",
+            "WARD": 7.0,
+            "LATITUDE": 38.89610856,
+            "LONGITUDE": -76.94756872,
+            "MAR_WARD": "Ward 7",
+            "XCOORD": "404548.34",
+            "YCOORD": "136474.59",
+            "ZIPCODE": "20019",
+            "MAR_ID": "309099",
+            "GIS_ID": "BooksandBarbershopsPt_21",
+            "GLOBALID": "{1F69C116-676D-4A4D-9F2B-D7F4524F9F9B}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 21
+        },
+        "geometry": {
+            "x": -76.94757098394336,
+            "y": 38.896116018161266
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Unique Cuts",
+            "ADDRESS": "4526 Benning Road SE WDC 20019",
+            "PHONE": "(202) 450-4543",
+            "WARD": 7.0,
+            "LATITUDE": 38.88903743,
+            "LONGITUDE": -76.93663315,
+            "MAR_WARD": "Ward 7",
+            "XCOORD": "405497.53",
+            "YCOORD": "135690.24",
+            "ZIPCODE": "20019",
+            "MAR_ID": "278513",
+            "GIS_ID": "BooksandBarbershopsPt_23",
+            "GLOBALID": "{362D6FA0-7A45-49F9-9830-72A3201A37D5}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 23
+        },
+        "geometry": {
+            "x": -76.93663541045787,
+            "y": 38.88904488006299
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Kutt-N-Up",
+            "ADDRESS": "1433 Good Hope Rd SE WDC 20020",
+            "PHONE": "(202) 678-0414",
+            "WARD": 8.0,
+            "LATITUDE": 38.86642842,
+            "LONGITUDE": -76.98415723,
+            "MAR_WARD": "Ward 8",
+            "XCOORD": "401374.91",
+            "YCOORD": "133178.68",
+            "ZIPCODE": "20020",
+            "MAR_ID": "286193",
+            "GIS_ID": "BooksandBarbershopsPt_25",
+            "GLOBALID": "{0F18BA4C-FE5E-4810-9C92-BF32EB2FDEB2}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 25
+        },
+        "geometry": {
+            "x": -76.9841595048573,
+            "y": 38.866435866052505
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Next Level",
+            "ADDRESS": "2408 Martin Luther King Jr Ave SE 200020",
+            "PHONE": "(202) 678-1180",
+            "WARD": 8.0,
+            "LATITUDE": 38.86237519,
+            "LONGITUDE": -76.99248378,
+            "MAR_WARD": "Ward 8",
+            "XCOORD": "400652.33",
+            "YCOORD": "132728.65",
+            "ZIPCODE": "20020",
+            "MAR_ID": "47555",
+            "GIS_ID": "BooksandBarbershopsPt_26",
+            "GLOBALID": "{20F944B2-2AA9-43F4-B94B-2F4C146E465F}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 26
+        },
+        "geometry": {
+            "x": -76.99248605724627,
+            "y": 38.862382641133465
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Like That",
+            "ADDRESS": "2449 Good Hope Rd SE WDC 20020",
+            "PHONE": "(202) 610-3700",
+            "WARD": 8.0,
+            "LATITUDE": 38.86120582,
+            "LONGITUDE": -76.96972256,
+            "MAR_WARD": "Ward 8",
+            "XCOORD": "402627.81",
+            "YCOORD": "132599.25",
+            "ZIPCODE": "20020",
+            "MAR_ID": "287064",
+            "GIS_ID": "BooksandBarbershopsPt_27",
+            "GLOBALID": "{786ACE81-2780-4F1A-800F-0171112BD3A9}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 27
+        },
+        "geometry": {
+            "x": -76.96972483674217,
+            "y": 38.86121326867401
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "MLK Community Barbershop",
+            "ADDRESS": "2739 MLK Jr Ave SE WDC 20032",
+            "PHONE": "(202) 563-0151",
+            "WARD": 8.0,
+            "LATITUDE": 38.84711483,
+            "LONGITUDE": -76.99636878,
+            "MAR_WARD": "Ward 8",
+            "XCOORD": "400315.22",
+            "YCOORD": "131034.62",
+            "ZIPCODE": "20032",
+            "MAR_ID": "44976",
+            "GIS_ID": "BooksandBarbershopsPt_29",
+            "GLOBALID": "{0EF0C3A2-DD5E-40FF-AB38-9B956BCDD1B6}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 29
+        },
+        "geometry": {
+            "x": -76.99637105431374,
+            "y": 38.84712227497925
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "My Three Sons",
+            "ADDRESS": "3125 MLK Ave SE WDC 20032",
+            "PHONE": "(202) 561-0396",
+            "WARD": 8.0,
+            "LATITUDE": 38.84334765,
+            "LONGITUDE": -77.00018914,
+            "MAR_WARD": "Ward 8",
+            "XCOORD": "399983.58",
+            "YCOORD": "130616.43",
+            "ZIPCODE": "20032",
+            "MAR_ID": "39883",
+            "GIS_ID": "BooksandBarbershopsPt_30",
+            "GLOBALID": "{5D4D4789-8E97-4B41-B93C-FB8CE13D04BF}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 30
+        },
+        "geometry": {
+            "x": -77.0001914228589,
+            "y": 38.84335508974323
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "C Alan Salon",
+            "ADDRESS": "705 Florida Ave NW WDC 20001",
+            "PHONE": "(202) 265-1772",
+            "WARD": 1.0,
+            "LATITUDE": 38.91655897,
+            "LONGITUDE": -77.02222783,
+            "MAR_WARD": "Ward 1",
+            "XCOORD": "398072.32",
+            "YCOORD": "138743.68",
+            "ZIPCODE": "20001",
+            "MAR_ID": "302436",
+            "GIS_ID": "BooksandBarbershopsPt_12",
+            "GLOBALID": "{CC0A9388-E55D-4CD1-B81E-E49A2A5D282C}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 12
+        },
+        "geometry": {
+            "x": -77.0222301181272,
+            "y": 38.91656642443397
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Cuttin -Up",
+            "ADDRESS": "750 N St NW WDC 20001",
+            "PHONE": "(202) 425-3275",
+            "WARD": 2.0,
+            "LATITUDE": 38.90710293,
+            "LONGITUDE": -77.02258909,
+            "MAR_WARD": "Ward 2",
+            "XCOORD": "398040.73",
+            "YCOORD": "137693.99",
+            "ZIPCODE": "20001",
+            "MAR_ID": "301915",
+            "GIS_ID": "BooksandBarbershopsPt_17",
+            "GLOBALID": "{16150401-788F-403A-BC43-3CD4BCD75F43}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 17
+        },
+        "geometry": {
+            "x": -77.02259138275501,
+            "y": 38.90711038939804
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Benning Barber",
+            "ADDRESS": "4228 Benning Road NE WDC 20019",
+            "PHONE": "(202) 396-5553",
+            "WARD": 7.0,
+            "LATITUDE": 38.89300136,
+            "LONGITUDE": -76.9415986,
+            "MAR_WARD": "Ward 7",
+            "XCOORD": "405066.46",
+            "YCOORD": "136129.98",
+            "ZIPCODE": "20019",
+            "MAR_ID": "24953",
+            "GIS_ID": "BooksandBarbershopsPt_22",
+            "GLOBALID": "{2D0F0A4B-D26B-45F2-8817-63C1156F34C4}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 22
+        },
+        "geometry": {
+            "x": -76.94160086308429,
+            "y": 38.89300881156663
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Classic Kuts",
+            "ADDRESS": "3222 22nd St SE WDC 20020",
+            "PHONE": "(202) 610-1345",
+            "WARD": 8.0,
+            "LATITUDE": 38.85044736,
+            "LONGITUDE": -76.97396978,
+            "MAR_WARD": "Ward 8",
+            "XCOORD": "402259.53",
+            "YCOORD": "131404.87",
+            "ZIPCODE": "20020",
+            "MAR_ID": "278353",
+            "GIS_ID": "BooksandBarbershopsPt_28",
+            "GLOBALID": "{B82E63C1-FF06-471B-8343-7049809F8CA5}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 28
+        },
+        "geometry": {
+            "x": -76.97397205644218,
+            "y": 38.850454804933406
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Diamond District Barbershop",
+            "ADDRESS": "3929 Georgia Ave NW WDC 20011",
+            "PHONE": "(202) 534-7559",
+            "WARD": 4.0,
+            "LATITUDE": 38.93947816,
+            "LONGITUDE": -77.02462286,
+            "MAR_WARD": "Ward 4",
+            "XCOORD": "397865.3",
+            "YCOORD": "141287.96",
+            "ZIPCODE": "20011",
+            "MAR_ID": "252527",
+            "GIS_ID": "BooksandBarbershopsPt_4",
+            "GLOBALID": "{BDC45C78-39A3-4F25-970B-10F5F012DA71}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 4
+        },
+        "geometry": {
+            "x": -77.02462515393333,
+            "y": 38.93948561802577
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Wanda's on 7th",
+            "ADDRESS": "1851 7th St NW WDC 20001",
+            "PHONE": "(202) 422-7946",
+            "WARD": 1.0,
+            "LATITUDE": 38.91533124,
+            "LONGITUDE": -77.02165817,
+            "MAR_WARD": "Ward 1",
+            "XCOORD": "398121.69",
+            "YCOORD": "138607.38",
+            "ZIPCODE": "20001",
+            "MAR_ID": "218539",
+            "GIS_ID": "BooksandBarbershopsPt_14",
+            "GLOBALID": "{17ADF73A-9228-4A4D-A9D5-403341011176}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 14
+        },
+        "geometry": {
+            "x": -77.02166046599032,
+            "y": 38.91533869544099
+        }
+    },
+    {
+        "attributes": {
+            "BARBERSHOP": "Mr Lee's",
+            "ADDRESS": "4409 Bowen Rd SE WDC 20019",
+            "PHONE": "(202) 575-5110",
+            "WARD": 7.0,
+            "LATITUDE": 38.87334348,
+            "LONGITUDE": -76.93518747,
+            "MAR_WARD": "Ward 7",
+            "XCOORD": "405624.19",
+            "YCOORD": "133948.18",
+            "ZIPCODE": "20019",
+            "MAR_ID": "22119",
+            "GIS_ID": "BooksandBarbershopsPt_24",
+            "GLOBALID": "{6FDC37B3-E127-463A-8367-6DAC6DD2738A}",
+            "CREATOR": null,
+            "CREATED": null,
+            "EDITOR": null,
+            "EDITED": null,
+            "OBJECTID": 24
+        },
+        "geometry": {
+            "x": -76.93518972897476,
+            "y": 38.87335092685002
+        }
+    }
+]
