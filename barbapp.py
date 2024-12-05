@@ -7,7 +7,7 @@ from dotenv import load_dotenv  # For loading API key from environment variables
 # Load environment variables from the .env file
 load_dotenv()
 
-app = Flask(__name__)
+application = Flask(__name__)
 
 # Load the Google API key
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
@@ -26,8 +26,8 @@ API_PARAMS = {
 }
 
 # Ensure the 'data' directory exists for caching
-if not os.path.exists(os.path.join(app.root_path, 'data')):
-    os.makedirs(os.path.join(app.root_path, 'data'))
+if not os.path.exists(os.path.join(application.root_path, 'data')):
+    os.makedirs(os.path.join(application.root_path, 'data'))
 
 def fetch_data_from_api():
     """
@@ -60,7 +60,7 @@ def save_data(data):
     Args:
         data (list): The list of barbershop data to be saved.
     """
-    data_file_path = os.path.join(app.root_path, 'data', 'bbs_data.json')
+    data_file_path = os.path.join(application.root_path, 'data', 'bbs_data.json')
     with open(data_file_path, 'w') as f:
         json.dump(data, f, indent=4)
 
@@ -74,13 +74,13 @@ def load_data():
     Returns:
         list: A list of barbershop data loaded from the local file, or an empty list if the file doesn't exist.
     """
-    data_file_path = os.path.join(app.root_path, 'data', 'bbs_data.json')
+    data_file_path = os.path.join(application.root_path, 'data', 'bbs_data.json')
     if os.path.exists(data_file_path):
         with open(data_file_path, 'r') as f:
             return json.load(f)
     return []
 
-@app.route('/')
+@application.route('/')
 def index():
     """
     Render the index page with a list of barbershops.
@@ -113,7 +113,7 @@ def index():
 
     return render_template('index.html', barbershops=formatted_barbershops, google_api_key=GOOGLE_API_KEY)
 
-@app.route('/add', methods=['GET', 'POST'])
+@application.route('/add', methods=['GET', 'POST'])
 def add_barbershop():
     """
     Handle adding a new barbershop.
@@ -192,5 +192,4 @@ def validate_form_data(form_data):
     return True  # Data is valid
 
 if __name__ == '__main__':
-    app.run(debug=True)
-
+    application.run(debug=True)
