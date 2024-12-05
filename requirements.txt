@@ -1,6 +1,7 @@
 beautifulsoup4==4.12.3
 soupsieve==2.6
-Flask==2.1.1
+flask==2.1.2
+werkzeug==2.1.0
 python-dotenv==0.19.2
 requests==2.25.1
 gunicorn
